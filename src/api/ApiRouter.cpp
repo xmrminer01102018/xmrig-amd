@@ -21,7 +21,7 @@
  *   along with this program. If not, see <http://www.gnu.org/licenses/>.
  */
 
-#include <math.h>
+#include <cmath>
 #include <string.h>
 #include <uv.h>
 
@@ -52,7 +52,7 @@
 
 static inline double normalize(double d)
 {
-    if (!isnormal(d)) {
+    if (!std::isnormal(d)) {
         return 0.0;
     }
 
