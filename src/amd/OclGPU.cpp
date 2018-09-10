@@ -25,7 +25,7 @@
 #include <algorithm>
 #include <cassert>
 #include <iostream>
-#include <math.h>
+#include <cmath>
 #include <regex>
 #include <stdio.h>
 #include <string.h>
