@@ -1,3 +1,4 @@
+It was fork for CNv1(Cryptonight V7) because compilation for Linux was failing.
 # XMRig AMD
 
 :warning: **You must update miners to version 2.5 before April 6 due [Monero PoW change](https://getmonero.org/2018/02/11/PoW-change-and-key-reuse.html).**
